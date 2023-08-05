@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: var(--black);
+}
+
+h3 {
+  color: var(--white);
+  font-weight: 400;
+  font-size: 18px;
+}
